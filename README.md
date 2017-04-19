@@ -1,2 +1,0 @@
-# arunachalam
-gh-pages
